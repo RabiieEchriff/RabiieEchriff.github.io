@@ -3496,12 +3496,12 @@ input, select, textarea {
 			-moz-filter: blur(0.125em);
 			-webkit-filter: blur(0.125em);
 			-ms-filter: blur(0.125em);
-			filter: blur(0.125em);
-			-moz-transform: translateX(-0.5em);
-			-webkit-transform: translateX(-0.5em);
-			-ms-transform: translateX(-0.5em);
-			transform: translateX(-0.5em);
-			opacity: 0;
+			filter: blur(0.0em);
+			-moz-transform: translateX(-0.0em);
+			-webkit-transform: translateX(-0.0em);
+			-ms-transform: translateX(-0.0em);
+			transform: translateX(-0.0em);
+			opacity: 1.0;
 		}
 
 		@media screen and (max-width: 1280px) {
